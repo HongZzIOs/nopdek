@@ -1,4 +1,4 @@
-body {
+theme: body {
 font-family: helvetica;
 background-image: linear-gradient(to right, #4C00E7, #A02FE8);
 background-color: #1C0B36;
